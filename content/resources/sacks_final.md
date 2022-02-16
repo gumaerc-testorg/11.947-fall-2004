@@ -7,8 +7,13 @@ description: 'Student project paper courtesy of Sean Sacks. This paper seeks to 
   for
 
   New Century City real estate projects.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/122f052669bbd1e36c0b8fa2a4e9f1db_sacks_final.pdf
+file: /media/courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/122f052669bbd1e36c0b8fa2a4e9f1db_sacks_final.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: sacks_final.pdf
 uid: 122f0526-69bb-d1e3-6c0b-8fa2a4e9f1db

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/c52086015d6dc0e6261b54729328b1fa_mehta_final.pdf
+file: /media/courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/c52086015d6dc0e6261b54729328b1fa_mehta_final.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: mehta_final.pdf
 uid: c5208601-5d6d-c0e6-261b-54729328b1fa

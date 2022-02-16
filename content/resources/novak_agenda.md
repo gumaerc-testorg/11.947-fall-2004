@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/77513684c02d9fd6c7e1f807bd7e56af_novak_agenda.pdf
+file: /media/courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/77513684c02d9fd6c7e1f807bd7e56af_novak_agenda.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: novak_agenda.pdf
 uid: 77513684-c02d-9fd6-c7e1-f807bd7e56af
