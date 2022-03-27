@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5eae1430-2fca-147a-1e17-7c695d680132
 resourcetype: Document
 title: lect1_Susanne.pdf
 uid: c9133570-a26c-8b29-1267-be4c97271af9

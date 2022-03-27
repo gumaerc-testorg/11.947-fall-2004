@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7939cf8b-869d-6f59-7906-4f9a383b7d53
 resourcetype: Document
 title: mehta_final.pdf
 uid: c5208601-5d6d-c0e6-261b-54729328b1fa

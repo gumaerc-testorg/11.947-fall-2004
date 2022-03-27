@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7939cf8b-869d-6f59-7906-4f9a383b7d53
 resourcetype: Document
 title: mccabe_final.pdf
 uid: 6ccf00d5-4629-0d8b-49dd-15bd7d1e880e

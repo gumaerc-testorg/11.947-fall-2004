@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7939cf8b-869d-6f59-7906-4f9a383b7d53
 resourcetype: Document
 title: foutz_agenda.pdf
 uid: 71f605db-f66e-1ce4-fb1d-4f0f42d02ac3

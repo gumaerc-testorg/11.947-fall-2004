@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7939cf8b-869d-6f59-7906-4f9a383b7d53
 resourcetype: Document
 title: mccabe_agenda.pdf
 uid: aef39d50-8a1d-1dfe-2c01-d9e3cb8d7fa0

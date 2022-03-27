@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7939cf8b-869d-6f59-7906-4f9a383b7d53
 resourcetype: Document
 title: canizo_agenda.pdf
 uid: 89bc9a5d-ecb2-b1b6-2ec4-61e538a227a8
