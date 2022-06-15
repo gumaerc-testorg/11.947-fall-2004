@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -32,7 +33,7 @@ Course Structure and Requirements
 
 ### Sessions
 
-Six sessions will be held over the course of the semester approximately every two weeks (please refer to the [calendar]({{< baseurl >}}/pages/calendar) for the scheduled dates). Each session has been given a thematic title but the content is very flexible and can be expanded according to participants' interests. Discussions will be initiated by one or two participants or guests who will present key challenges and questions to the group at the beginning of class.
+Six sessions will be held over the course of the semester approximately every two weeks (please refer to the {{% resource_link 0ac75484-495c-ab38-3f04-51b5705f0a10 "calendar" %}} for the scheduled dates). Each session has been given a thematic title but the content is very flexible and can be expanded according to participants' interests. Discussions will be initiated by one or two participants or guests who will present key challenges and questions to the group at the beginning of class.
 
 ### Requirements and Credit
 

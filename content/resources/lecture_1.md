@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/490f5b7fbe853a688e9425ada4300d29_lecture_1.pdf
+file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/490f5b7fbe853a688e9425ada4300d29_lecture_1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
