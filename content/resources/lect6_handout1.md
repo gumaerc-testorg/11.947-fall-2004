@@ -6,6 +6,7 @@ file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-desi
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect6_handout1.pdf
 uid: 7e434c11-c6ed-7db8-7e89-6417325927fa
 ---
 Final handout which discusses some of the key issues that have been raised over the course of the semester.
-

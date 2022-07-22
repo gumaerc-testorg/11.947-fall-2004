@@ -5,6 +5,7 @@ file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-desi
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: peditto_agenda.pdf
 uid: fcba78ca-d1e6-010f-753a-1d018a52fb87
 ---
 Term project proposal and agenda.
-

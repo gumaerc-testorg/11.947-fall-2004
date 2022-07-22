@@ -5,6 +5,7 @@ file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-desi
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment.pdf
 uid: bd724631-c3c7-2745-bcc2-5c85385feb59
 ---
 Assignment questions.
-

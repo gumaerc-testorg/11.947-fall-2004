@@ -5,6 +5,7 @@ file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-desi
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect5_handout1.pdf
 uid: 2cd9d0af-cb9c-51f6-290f-5b301ee4f91f
 ---
 Lecture 5 handout.
-

@@ -11,6 +11,7 @@ file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-desi
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -22,4 +23,3 @@ uid: 122f0526-69bb-d1e3-6c0b-8fa2a4e9f1db
 Student project paper courtesy of Sean Sacks. This paper seeks to investigate the
 feasibility of the double bottom equity market as an alternative funding source for
 New Century City real estate projects.
-

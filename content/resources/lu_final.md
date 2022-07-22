@@ -7,6 +7,7 @@ file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-desi
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lu_final.pdf
 uid: 78888b9a-c284-2655-8585-0f3cdab8449b
 ---
 Term project report courtesy of Mark Lu. Mark Lu discusses on how residential development in the century cities must also participate in the creative energy and synergy of the community.
-
