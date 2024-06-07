@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment questions.
 file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/bd724631c3c72745bcc25c85385feb59_assignment.pdf
+file_size: 43412
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/ca287a75ffed700a679ea3cbb44fd9ec_canizo_final.pdf
+file_size: 155374
 file_type: application/pdf
 learning_resource_types:
 - Assignments

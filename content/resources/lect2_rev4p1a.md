@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation delivered by instructor Dennis Frenchman.
 file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/ff330566a4f659ace5345d4804fc7772_lect2_rev4p1a.pdf
+file_size: 5428342
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

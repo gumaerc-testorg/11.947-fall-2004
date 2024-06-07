@@ -4,6 +4,7 @@ description: Term project courtesy of Gena Peditto. This paper begins to address
   media through which people express themselves in the New Century City by examining
   potential scenarios.
 file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/29287b83e92966458738268341ceb337_peditto.pdf
+file_size: 823463
 file_type: application/pdf
 learning_resource_types:
 - Assignments
