@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/89bc9a5decb2b1b62ec461e538a227a8_canizo_agenda.pdf
+file: /ol-ocw-studio-app/courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/89bc9a5decb2b1b62ec461e538a227a8_canizo_agenda.pdf
 file_size: 46257
 file_type: application/pdf
 learning_resource_types:
