@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/77513684c02d9fd6c7e1f807bd7e56af_novak_agenda.pdf
+file: /ol-ocw-studio-app/courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/77513684c02d9fd6c7e1f807bd7e56af_novak_agenda.pdf
 file_size: 55176
 file_type: application/pdf
 learning_resource_types:
