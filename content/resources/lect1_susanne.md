@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Introductory lecture to the course.
-file: /ol-ocw-studio-app/courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/c9133570a26c8b291267be4c97271af9_lect1_Susanne.pdf
+file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/c9133570a26c8b291267be4c97271af9_lect1_Susanne.pdf
 file_size: 1153162
 file_type: application/pdf
 learning_resource_types:
