@@ -7,7 +7,7 @@ description: 'Student project paper courtesy of Sean Sacks. This paper seeks to 
   for
 
   New Century City real estate projects.'
-file: /ol-ocw-studio-app/courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/122f052669bbd1e36c0b8fa2a4e9f1db_sacks_final.pdf
+file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/122f052669bbd1e36c0b8fa2a4e9f1db_sacks_final.pdf
 file_size: 345138
 file_type: application/pdf
 learning_resource_types:

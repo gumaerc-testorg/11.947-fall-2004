@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation delivered by David Geltner and Tony Ciochetti.
-file: /ol-ocw-studio-app/courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/bcce945305a8ffe9ca57a18579afaff0_lecture_5.pdf
+file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/bcce945305a8ffe9ca57a18579afaff0_lecture_5.pdf
 file_size: 129325
 file_type: application/pdf
 learning_resource_types:
