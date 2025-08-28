@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/6ccf00d546290d8b49dd15bd7d1e880e_mccabe_final.pdf
+file: /ol-ocw-studio-app/courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/6ccf00d546290d8b49dd15bd7d1e880e_mccabe_final.pdf
 file_size: 168168
 file_type: application/pdf
 learning_resource_types:
