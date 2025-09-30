@@ -76,7 +76,7 @@ Townsend, Anthony. "Digitally Mediated Urban Space: New Lessons for Design." _Pr
 
 Horan, Thomas A. "Wiring Livable Regions." Chapter 4 in _Digital Places: Building Our City of Bits_. Washington, D.C.: Urban Land Institute, 2001. ISBN: 0874208459.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/e-topia) Mitchell, William J. "Software: New Genius of the Place." Chapter 3 in [_E-Topia: Urban Life, Jim - But Not As We Know It_](https://mitpress.mit.edu/books/e-topia). Cambridge, MA: MIT Press, 1999. ISBN: 0262133555.
+{{% resource_link "c1b595bf-3be0-44ad-b723-6ca5c5f7fcb2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mitchell, William J. "Software: New Genius of the Place." Chapter 3 in {{% resource_link "c1b595bf-3be0-44ad-b723-6ca5c5f7fcb2" "_E-Topia: Urban Life, Jim - But Not As We Know It_" %}}. Cambridge, MA: MIT Press, 1999. ISBN: 0262133555.
 
 Overholt, Alison. "Wireless in San Diego." _Fast Company_ (January 2004): 84-87.
 
@@ -116,9 +116,9 @@ Rheingold, Howard. "The Era of Sentiment Things." Chapter 4 in _Smart Mobs._ Ca
 
 Townsend, A. M. "Wired/Unwired: The Urban Geography of Digital Networks." Unpublished Doctoral Dissertation. Massachusetts Institute of Technology, 2003.
 
-Weisman, Robert. "Live-in Lab." [_The Boston Globe_](http://boston.com/), October 4, 2004.
+Weisman, Robert. "Live-in Lab." {{% resource_link "c28a2d19-a20a-4666-8729-31b208e28725" "_The Boston Globe_" %}}, October 4, 2004.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/me) Mitchell, William J. "Wireless Bipeds." Chapter 3 in [_Me++_](https://mitpress.mit.edu/books/me). Cambridge, MA: MIT Press, 2003, pp. 41-62. ISBN: 0262633132.
+{{% resource_link "6a71f5ff-d2bb-4e56-bcc2-decfa45b5a73" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mitchell, William J. "Wireless Bipeds." Chapter 3 in {{% resource_link "6a71f5ff-d2bb-4e56-bcc2-decfa45b5a73" "_Me++_" %}}. Cambridge, MA: MIT Press, 2003, pp. 41-62. ISBN: 0262633132.
 
 Gershenfeld, Neil, Raffi Kirkorian, and Danny Cohen. "The Internet of Things." _Scientific American_ 291, no. 4, (October 2004): 46-51.
 
